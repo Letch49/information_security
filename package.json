@@ -1,7 +1,7 @@
 {
   "name": "gammir",
   "version": "1.0.0",
-  "description": "Все контейнеры и программы использовали файл hideit.txt\r # lab 4\r don't build\r # lab 5\r don't build",
+  "description": "",
   "main": "gammir.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
